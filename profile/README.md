@@ -11,4 +11,4 @@ Innovation: Always seeking new ways to leverage technology to solve problems and
 Expert Knowledge: With leadership that boasts decades of experience in the field, we bring expertise and specialized knowledge to all our projects.
 Sustainability: We believe in the power of sustainability and integrate ecological and social aspects into our development processes.
 ## 📧 Contact Us
-For further information or if you're considering collaborating, please don't hesitate to contact us. We look forward to working together to create innovative software solutions.
+For further information or if you're considering collaborating, please don't hesitate to contact us.
