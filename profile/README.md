@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Twilight-Projects/.github/blob/main/Logo.svg" width="200" height="200"></p>
 <h1 align="center">Twilight-Projects</h1>
-<p align="center">Shaping tomorrow's Digital Today with Twilight-Projects</p>
+<h3 align="center">Shaping tomorrow's Digital Today with Twilight-Projects</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=laravel,go,php,java,html,css,js,tailwindcss,linux,git,docker,mysql"></p>
 
 ## 📝 About Twilight-Projects
